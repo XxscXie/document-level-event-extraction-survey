@@ -31,6 +31,12 @@ by<i> Kung-Hsiang Huang, Nanyun Peng</i>
 </summary>
 <blockquote><p align="justify"></p></blockquote></details>
 
+<details>
+<summary><a href="https://aclanthology.org/2020.acl-main.670/">SciREX: A Challenge Dataset for Document-Level Information Extraction</a> 
+by<i> Sarthak Jain, Madeleine van Zuylen, Hannaneh Hajishirzi, Iz Beltagy</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote></details>
+
 ### 2021
 <details>
 <summary><a href="https://aclanthology.org/2021.naacl-main.69/">Document-Level Event Argument Extraction by Conditional Generation</a> 
@@ -42,6 +48,13 @@ by<i> Sha Li, Heng Ji, Jiawei Han</i>
 <details>
 <summary><a href="https://aclanthology.org/2021.acl-long.490/">Unleash GPT-2 Power for Event Detection</a> 
 by<i> Amir Pouran Ben Veyseh, Viet Lai, Franck Dernoncourt, Thien Huu Nguyen</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote>
+</details>
+
+<details>
+<summary><a href="https://aclanthology.org/2021.acl-long.492/">Document-level Event Extraction via Parallel Prediction Networks</a> 
+by<i> Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang</i>
 </summary>
 <blockquote><p align="justify"></p></blockquote>
 </details>
