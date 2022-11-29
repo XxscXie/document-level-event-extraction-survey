@@ -10,6 +10,28 @@ by<i> Ruihong Huang, Ellen Riloff</i>
 </summary>
 <blockquote><p align="justify"></p></blockquote></details>
 
+### 2012
+
+<details>
+<summary><a href="https://ojs.aaai.org/index.php/AAAI/article/view/8354">Modeling Textual Cohesion for Event Extraction</a> 
+by<i> Ruihong Huang, Ellen Riloff</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote></details>
+
+<details>
+<summary><a href="https://aclanthology.org/N12-1008/">Multi-Event Extraction Guided by Global Constraints</a> 
+by<i> Roi Reichart, Regina Barzilay</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote></details>
+
+### 2019
+
+<details>
+<summary><a href="https://aclanthology.org/P19-1276/">Open Domain Event Extraction Using Neural Latent Variable Models</a> 
+by<i> Xiao Liu, Heyan Huang, Yue Zhang</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote></details>
+
 ### 2020
 <details>
 <summary><a href="https://aclanthology.org/2020.acl-main.714/">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a> 
@@ -59,6 +81,13 @@ by<i> Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang</i>
 <blockquote><p align="justify"></p></blockquote>
 </details>
 
+<details>
+<summary><a href="https://aclanthology.org/2021.acl-long.360/">Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction</a> 
+by<i> Kaiwen Wei, Xian Sun, Zequn Zhang, Jingyuan Zhang, Guo Zhi, Li Jin</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote>
+</details>
+
 ### 2022
 <details>
 <summary><a href="https://aclanthology.org/2022.acl-long.466/">Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction</a> 
@@ -70,6 +99,27 @@ by<i>Manling Li, Ruochen Xu, Shuohang Wang, Luowei Zhou, Xudong Lin, Chenguang Z
 <details>
 <summary><a href="https://arxiv.org/abs/2201.05078">CLIP-Event: Connecting Text and Images with Event Structures</a> 
 by<i>Yubo Ma, Zehao Wang, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote>
+</details>
+
+<details>
+<summary><a href="https://ieeexplore.ieee.org/document/9747721">Document-Level Event Extraction via Human-Like Reading Process</a> 
+by<i> Shiyao Cui, Xin Cong, Bowen Yu, Tingwen Liu, Yucheng Wang, Jinqiao Shi</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote>
+</details>
+
+<details>
+<summary><a href="https://aclanthology.org/2022.coling-1.221/">CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction</a> 
+by<i> Yubing Ren, Yanan Cao, Fang Fang, Ping Guo, Zheng Lin, Wei Ma, Yi Liu</i>
+</summary>
+<blockquote><p align="justify"></p></blockquote>
+</details>
+
+<details>
+<summary><a href="https://aclanthology.org/2022.findings-acl.130/">Document-Level Event Argument Extraction via Optimal Transport</a> 
+by<i> Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min, Thien Nguyen</i>
 </summary>
 <blockquote><p align="justify"></p></blockquote>
 </details>
